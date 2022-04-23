@@ -1,4 +1,5 @@
 ### 👋🏻 I welcome you to my profile! 
+
  <table width="100%"> 
   <tr>
   <td width="50%">
@@ -11,10 +12,11 @@
 <a href="https://t.me/neluckoff">
   <img align="right" alt="neluckoff | Telegram" width="20px" src="https://github.com/neluckoff/neluckoff/blob/main/assets/telegram.svg" />
 </a>
+ 
   </td>
   <td width="50%">
+   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neluckoff&show_icons=true&title_color=262626&bg_color=ffffff&hide_border=true&locale=en&layout=compact" alt="neluckoff" /></p>
-  </td>
     
   </p>
   </td>

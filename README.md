@@ -7,7 +7,7 @@
   </td>
   <td width="50%">
    
-   <p align="left">My name is Dmitry, I'm a beginner software developer. <br>
+   <p align="left">My name is Dmitry, I'm a beginner software developer. FFFFFFF <br>
       <br> - 💬 Ask me about anything <a href="https://github.com/neluckoff/neluckoff/issues">here</a>. <br>
     <a href="https://vk.com/neluckoff">
   <img align="right" alt="neluckoff | VK" width="21px" src="https://github.com/neluckoff/neluckoff/blob/main/assets/vk.svg" /></a>

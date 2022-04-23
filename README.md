@@ -1,16 +1,22 @@
-### Hi there 👋
+### 👋🏻 I welcome you to my profile! 
+ <table width="100%"> 
+  <tr>
+  <td width="50%">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neluckoff&show_icons=true&title_color=262626&bg_color=ffffff&hide_border=true&locale=en&layout=compact" alt="neluckoff" /></p>
+  </td>
+  <td width="50%">
 
-<!--
-**neluckoff/neluckoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&nbsp; <p align="left">My name is Dmitry, I'm a beginner software developer. <br>
+      <br> - 💬 Ask me about anything [here](https://github.com/neluckoff/neluckoff/issues) <br>
+    <a href="https://vk.com/neluckoff">
+  <img align="right" alt="neluckoff | VK" width="21px" src="https://github.com/neluckoff/neluckoff/blob/main/assets/vk.svg" />
+</a>
+<a href="https://t.me/neluckoff">
+  <img align="right" alt="neluckoff | Telegram" width="20px" src="https://github.com/neluckoff/neluckoff/blob/main/assets/telegram.svg" />
+</a>
+    
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </p>
+  </td>
+</table>
+ 

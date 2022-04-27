@@ -4,7 +4,11 @@
 
 <hr align="center" size=2/>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neluckoff&show_icons=true&title_color=262626&bg_color=ffffff&hide_border=true&locale=en&layout=compact" alt="neluckoff" /></p>
+ <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neluckoff&show_icons=true&title_color=282828&text_color=282828&bg_color=ffffff&hide_border=true&locale=en&layout=compact" alt="neluckoff" />
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=neluckoff&show_icons=true&theme=tokyonight&title_color=282828&text_color=282828&bg_color=ffffff&hide_border=true&locale=en" alt="neluckoff" />
+</p>
 
 <hr align="center" size=2/>
 

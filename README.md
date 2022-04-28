@@ -13,7 +13,7 @@
 
 
 <a href="https://vk.com/neluckoff"> 
-  <img align="right" alt="neluckoff | VK" width="21px" src="https://github.com/neluckoff/neluckoff/blob/main/assets/vk.svg" />
+  <img align="right" alt="neluckoff | VK" width="20px" src="https://github.com/neluckoff/neluckoff/blob/main/assets/vk.svg" />
 </a>
 
 <a href="https://t.me/neluckoff">

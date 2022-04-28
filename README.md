@@ -1,4 +1,4 @@
-<table align="center" width=800">
+<table align="center" width=100">
     <tr>
         <td>
             <p align="center"><b>I welcome you to my profile 👋🏻</b></p>

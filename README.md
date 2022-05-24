@@ -6,7 +6,7 @@
             <p align="center">💬 Ask me about anything <a href="https://github.com/neluckoff/neluckoff/issues">here</a>.</p>
         </td>
         <td>
-            <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neluckoff&show_icons=true&title_color=262626&bg_color=ffffff&hide_border=true&locale=ru&layout=compact&langs_count=6" alt="neluckoff" /></p>
+            <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neluckoff&show_icons=true&title_color=262626&bg_color=ffffff&hide_border=true&locale=en&layout=compact&langs_count=6" alt="neluckoff" /></p>
         </td>
     </tr>
     <tr></tr>

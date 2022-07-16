@@ -1,6 +1,6 @@
 <p align="center">
-<img align="center" width="560px" 
-     src="https://github.com/neluckoff/neluckoff/blob/main/assets/Python.svg" />
+<a href="https://github.com/neluckoff/neluckoff/blob/main/stats/README.md"> <img align="center" width="560px" 
+     src="https://github.com/neluckoff/neluckoff/blob/main/assets/Python.svg" /> </a>
 &nbsp&nbsp&nbsp      
  <a href="https://t.me/neluckoff"><img align="center" width="230px" 
    src="https://github.com/neluckoff/neluckoff/blob/main/assets/Contact.svg" /></a>

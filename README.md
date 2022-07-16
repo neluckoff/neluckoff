@@ -2,7 +2,7 @@
 <img align="center" width="560px" 
      src="https://github.com/neluckoff/neluckoff/blob/main/assets/Python.svg" />
 &nbsp&nbsp&nbsp      
- <a href="t.me/neluckoff"><img align="center" width="230px" 
+ <a href="https://t.me/neluckoff"><img align="center" width="230px" 
    src="https://github.com/neluckoff/neluckoff/blob/main/assets/Contact.svg" /></a>
 </p>
 

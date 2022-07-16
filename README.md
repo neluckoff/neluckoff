@@ -1,11 +1,12 @@
 <p align="center">
-<img align="left" alt="neluckoff | VK" width="560px" 
+<img align="center" alt="neluckoff | VK" width="560px" 
      src="https://github.com/neluckoff/neluckoff/blob/main/assets/Python.svg" />
  <img align="center" alt="neluckoff | VK" width="230px" 
    src="https://github.com/neluckoff/neluckoff/blob/main/assets/Contact.svg" />
-     
-     
- <img align="left" alt="neluckoff | VK" width="230px" 
+</p>
+
+<p align="center">         
+ <img align="center" alt="neluckoff | VK" width="230px" 
      src="https://github.com/neluckoff/neluckoff/blob/main/assets/hobbies.svg" />
  <img align="center" alt="neluckoff | VK" width="560px" 
      src="https://github.com/neluckoff/neluckoff/blob/main/assets/neluckoff.svg" />

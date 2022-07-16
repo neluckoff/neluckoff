@@ -1,7 +1,7 @@
 <img align="left" alt="neluckoff | VK" width="520px" 
      src="https://github.com/neluckoff/neluckoff/blob/main/assets/Python.svg" />
  <img align="center" alt="neluckoff | VK" width="230px" 
-   src="https://github.com/neluckoff/neluckoff/blob/main/assets/tg.svg" />
+   src="https://github.com/neluckoff/neluckoff/blob/main/assets/Contact.svg" />
      
      
  <img align="left" alt="neluckoff | VK" width="230px" 

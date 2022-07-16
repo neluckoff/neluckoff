@@ -1,6 +1,7 @@
 <p align="center">
 <img align="center" alt="neluckoff | VK" width="560px" 
      src="https://github.com/neluckoff/neluckoff/blob/main/assets/Python.svg" />
+&nbsp&nbsp&nbsp      
  <img align="center" alt="neluckoff | VK" width="230px" 
    src="https://github.com/neluckoff/neluckoff/blob/main/assets/Contact.svg" />
 </p>
@@ -8,6 +9,7 @@
 <p align="center">         
  <img align="center" alt="neluckoff | VK" width="230px" 
      src="https://github.com/neluckoff/neluckoff/blob/main/assets/hobbies.svg" />
+&nbsp&nbsp&nbsp     
  <img align="center" alt="neluckoff | VK" width="560px" 
      src="https://github.com/neluckoff/neluckoff/blob/main/assets/neluckoff.svg" />
 </p>

@@ -2,8 +2,6 @@
      src="https://github.com/neluckoff/neluckoff/blob/main/assets/Python.svg" />
  <img align="center" alt="neluckoff | VK" width="230px" 
    src="https://github.com/neluckoff/neluckoff/blob/main/assets/tg.svg" />
- <img align="right" alt="neluckoff | VK" width="220px" 
-     src="https://github.com/neluckoff/neluckoff/blob/main/assets/open%20source.svg" />
      
      
  <img align="left" alt="neluckoff | VK" width="230px" 

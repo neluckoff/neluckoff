@@ -1,17 +1,9 @@
 <p align="center">
-<a href="https://github.com/neluckoff/neluckoff/blob/main/stats/README.md"> <img align="center" width="560px" 
-     src="https://github.com/neluckoff/neluckoff/blob/main/assets/Python.svg" /> </a>
-&nbsp&nbsp&nbsp      
- <a href="https://t.me/neluckoff"><img align="center" width="230px" 
-   src="https://github.com/neluckoff/neluckoff/blob/main/assets/Contact.svg" /></a>
+  <samp>
+    <a href="https://luckoff.me">me</a> .
+    <a href="https://habr.com/ru/users/luckoff">habr</a> .
+    <a href="https://t.me/neluckoff">telegram</a> .
+    <a href="https://t.me/neluckoff">instagram</a> .
+    <a href="https://certificates.dev/c/9c6ef1b9-a8fb-4b9a-80a5-c5dcab794f95">certificate</a> 
+  </samp>
 </p>
-
-<p align="center">         
- <img align="center" width="230px" 
-     src="https://github.com/neluckoff/neluckoff/blob/main/assets/hobbies.svg" />
-&nbsp&nbsp&nbsp     
- <img align="center" width="560px" 
-     src="https://github.com/neluckoff/neluckoff/blob/main/assets/neluckoff.svg" />
-</p>
-
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=neluckoff&show_icons=true&title_color=262626&bg_color=ffffff&hide_border=true&locale=en&layout=compact&border_radius=30&card_width=370&langs_count=6" alt="neluckoff" /> -->

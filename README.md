@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    <a href="https://luckoff.me">me</a> .
+    <a href="https://neluckoff.me">me</a> .
     <a href="https://habr.com/ru/users/luckoff">habr</a> .
     <a href="https://t.me/neluckoff">telegram</a> .
     <a href="https://t.me/neluckoff">instagram</a> .
